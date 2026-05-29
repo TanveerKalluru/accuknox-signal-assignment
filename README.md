@@ -97,6 +97,6 @@ Accuknox Assignment
 * Django Signals
 * Object-Oriented Programming (OOP)
 
-## Author
+## Submitted by
 
 Tanveer Kalluru
